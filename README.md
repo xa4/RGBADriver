@@ -13,8 +13,8 @@ Save this example in your sketch folder and start experimenting :)
 example code:
 -------------
 <pre>
-#include &#60;Wire.h&#62;
-#include &#60;RGBADriver.h&#62;
+#include &lt;Wire.h&gt;
+#include &lt;RGBADriver.h&gt;
 
 RGBADriver driver;
 
